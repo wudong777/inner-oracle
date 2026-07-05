@@ -21,7 +21,7 @@ export function Footer() {
           ))}
         </div>
         <address className="not-italic text-sm leading-7 text-ink/65">
-          <a href="mailto:contact@inneroracle.com">contact@inneroracle.com</a>
+          <a href="mailto:contact@inneroracle.com.cn">contact@inneroracle.com.cn</a>
           <br />
           <a href="tel:+8619858977400">+86 19858977400</a>
         </address>
